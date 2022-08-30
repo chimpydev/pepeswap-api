@@ -1,6 +1,6 @@
 
   "name": "PepeSwap",
-  "logoURI": "https://docs.velodrome.finance/velodrome.svg",
+  "logoURI": "https://raw.githubusercontent.com/chimpydev/pepeswap-api/main/pepelogo.png",
   "keywords": ["dogechain", "amm"],
   "timestamp": "2021-05-22T10:01:21.042+00:00",
   "tokens": [
@@ -18,7 +18,7 @@
       "name": "PepeSwap Token",
       "symbol": "PEPE",
       "decimals": 18,
-      "logoURI": "https://docs.velodrome.finance/velodrome.svg"
+      "logoURI": "https://raw.githubusercontent.com/chimpydev/pepeswap-api/main/pepelogo.png"
     },
     {
       "chainId": 2000,
